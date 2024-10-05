@@ -1,5 +1,5 @@
 pandas-datareader
-cufflinks
+cufflinks==0.13.0
 yfinance
 notebook
 matplotlib
