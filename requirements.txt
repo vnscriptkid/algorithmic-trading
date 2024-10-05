@@ -1,0 +1,5 @@
+pandas-datareader
+cufflinks
+yfinance
+notebook
+matplotlib
